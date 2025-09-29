@@ -1,6 +1,6 @@
 # When Clusters Meet Shape Priors: A Synergistic Framework for Cluster Infrared Small Target Detection [[Paper]](https://ieeexplore.ieee.org/abstract/document/11164479) 
 
-Tuntun Wang; Jincheng Zhou; Yuxin Jing; Tianpei Zhang, IEEE Transactions on Geoscience and Remote Sensing 2025.
+Tuntun Wang, Jincheng Zhou, Yuxin Jing, Tianpei Zhang, IEEE Transactions on Geoscience and Remote Sensing 2025.
 
 # If the implementation of this repo is helpful to you, just star it！⭐⭐⭐
 
@@ -40,7 +40,7 @@ python train.py
 ```
 
 #### 3. Test and demo.
-权重文件：https://github.com/wangtuntun/SSCFNet/blob/master/best_ckpt_for_DenseSIRST.pth
+weight：https://github.com/wangtuntun/SSCFNet/blob/master/best_ckpt_for_DenseSIRST.pth
 ```bash
 python test.py
 ```
